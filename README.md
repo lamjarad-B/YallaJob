@@ -1,6 +1,6 @@
 # YallaJob
 
-**YallaJob** est une plateforme d'intérim numérique pensée pour le marché marocain. Elle permet aux entreprises de publier des missions ponctuelles (événements, logistique, vente, etc.) et aux personnes disponibles – étudiants, freelances, ou chercheurs de petits boulots – de postuler facilement, directement via une application mobile.
+**YallaJob** est une plateforme d'intérim numérique pensée pour le marché marocain. Elle permet aux entreprises de publier des missions ponctuelles (événements, logistique, vente, etc.) et aux personnes disponibles – étudiants, freelances, ou chercheurs de petits boulots – de postuler facilement, directement via un site Internet et prochainement via une application mobile.
 
 ## 🌍 Pourquoi YallaJob ?
 
