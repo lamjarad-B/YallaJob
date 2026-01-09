@@ -10,17 +10,17 @@
   },
   "dependencies": {
     "@react-router/node": "~7.9",
-    "@react-router/serve": "~7.5",
+    "@react-router/serve": "~7.12",
     "isbot": "~5.1",
     "react": "~19.1",
     "react-dom": "~19.1",
-    "react-router": "~7.5"
+    "react-router": "~7.12"
   },
   "devDependencies": {
     "@mui/material": "~7.0",
     "@emotion/react": "~11.14",
     "@emotion/styled": "~11.14",
-    "@react-router/dev": "~7.5",
+    "@react-router/dev": "~7.12",
     "@tailwindcss/vite": "~4.1",
     "@types/node": "~22.15",
     "@types/react": "~19.1",
